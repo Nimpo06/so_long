@@ -2,6 +2,7 @@
 **Subject by 42*
 
 ## This is the first graphical project. It introduces the graphical library of 42 : the `minilibx`.
+### Here's a demo of the game : https://youtu.be/id3JLISuHpY
 
 A simple 2D video game, with collectibles, enemies and an exit door.
 
